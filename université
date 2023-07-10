@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>lettre</title>
+
+    </head>
+    <body>
+        <header>
+            <Div Align=Center><b>Dr. Eleanor Gaye</b><br>Awesome Science faculty<br>University of Awesome<br>
+                <address>
+                    <p>University of AwesomeBobtown, CA 99999,USA</p>
+                </address><br>
+                <b>Tel</b>: 123&oline;456&oline;7890<br><b>e&oline;mail</b>:no_reply@example.com<br>
+
+                <time datetime="2016-01-20">20 janvier 2016</time>
+            </Div>
+        </header>
+    </body>
+</html>
